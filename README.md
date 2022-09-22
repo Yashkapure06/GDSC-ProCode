@@ -4,13 +4,13 @@
 
 # GDSC-Patterns
 
-  Hello Firends, We have created this repo just for improving your <b>LOGICS</b> in any kind of programming.<br>
+  Hello Friends, We have created this repo just for improving your <b>LOGICS</b> in any kind of programming.<br>
   We are creating this repo So that many of you can add your files over here.<br>
   
  
   
 ###  But  Wait!! Which files!? and how to give names to those files which you are going to upload
-# We are going to play with star patterns here!⭐🎉🥳 
+# We are going to play with patterns here!⭐🎉🥳 
 So Follow these steps:
 
 
@@ -21,12 +21,21 @@ So Follow these steps:
   ![ss](https://user-images.githubusercontent.com/61585443/191573114-28580dcb-9ba6-4ed5-882d-b2642500a23d.png)
 
 *  This is what you will see next:<br>
-![image](https://user-images.githubusercontent.com/61585443/191573414-a4b7c986-f9e6-4c99-b11a-49e7acae6ea0.png)
+![image](https://user-images.githubusercontent.com/72162692/191766823-4127d499-cadc-4d3b-a653-392b3b1ae9fd.png)
+
+*  Now, Go to respective day's directory:<br>
+![image](https://user-images.githubusercontent.com/72162692/191767850-78895812-eb94-410b-80cb-683136fced35.png)
+
+*  You'll see a Problem Statement Pattern<br>
+![image](https://user-images.githubusercontent.com/72162692/191770037-73d1f8d0-e000-48b0-8c80-ec26cb35abf5.png)
+
+*  File Name Format : `firstName_lastName.(extention)`<br>
+![image](https://user-images.githubusercontent.com/72162692/191771108-2b2e0bc9-3ae5-43c7-bc4b-5a14e95a29a6.png)
 
 *  After this when you add any kind of files in this repo you will see like this:<br>
 ![ss2](https://user-images.githubusercontent.com/61585443/191574579-dbe263e6-0ae3-42ee-a954-e9af04760ab5.png)
 
-* As in above Image you are seeing Test.js But in real You will have to create a fileName like `yourname_patternName.(extention)` your code can be in any language
+* As in above Image you are seeing Test.js But in real You will have to create a fileName like `yourname_lastName.(extention)` your code can be in any language
 * And When you commit the code you will just have to commit:  `"PatternName Created by YourName"`
 
 * Next You have to click on <b>Contribute</b> option and <b>open pull request</b> <br>
