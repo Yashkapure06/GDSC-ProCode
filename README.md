@@ -29,13 +29,13 @@ So Follow these steps:
 *  You'll see a Problem Statement Pattern<br>
 ![image](https://user-images.githubusercontent.com/72162692/191770037-73d1f8d0-e000-48b0-8c80-ec26cb35abf5.png)
 
-*  File Name Format : firstName_lastName.extension<br>
+*  File Name Format : `firstName_lastName.(extention)`<br>
 ![image](https://user-images.githubusercontent.com/72162692/191771108-2b2e0bc9-3ae5-43c7-bc4b-5a14e95a29a6.png)
 
 *  After this when you add any kind of files in this repo you will see like this:<br>
 ![ss2](https://user-images.githubusercontent.com/61585443/191574579-dbe263e6-0ae3-42ee-a954-e9af04760ab5.png)
 
-* As in above Image you are seeing Test.js But in real You will have to create a fileName like `yourname_patternName.(extention)` your code can be in any language
+* As in above Image you are seeing Test.js But in real You will have to create a fileName like `yourname_lastName.(extention)` your code can be in any language
 * And When you commit the code you will just have to commit:  `"PatternName Created by YourName"`
 
 * Next You have to click on <b>Contribute</b> option and <b>open pull request</b> <br>
