@@ -1,4 +1,4 @@
-# Problem Statement : 24 Sept 2023
+# Problem Statement : 24 Sept 2022
 
 
 - Accept a number from user & print the pattern<br>
