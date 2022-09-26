@@ -12,3 +12,26 @@
 4 5 6 7 
 5 6 7 8 9 
 ```
+
+<br>
+
+> JAVA CODE
+```
+import java.util.*;
+
+public class _26sept
+{
+    public static void main(String[] args) {
+        int n = new Scanner(System.in).nextInt();
+
+        for(int i = 1; i<= n; i++)
+        {
+            for(int j = i; j < i+i; j++)
+            {
+                System.out.print(j+" ");
+            }
+            System.out.println();
+        }
+    }
+}
+```
