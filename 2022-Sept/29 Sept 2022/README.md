@@ -13,5 +13,26 @@ z y
 z
 ```
 
+> JAVA CODE
+
+```
+public class _29sept
+{
+    public static void main(String[] args) {
+        int n = new Scanner(System.in).nextInt();
+
+        for(int i = 1; i <= n; i++)
+        {
+            char ch = 'z';
+            for(int j = n; j >= i; j--)
+            {
+                System.out.print(ch-- +" ");
+            }
+            System.out.println();
+        }
+    }
+}
+```
+
 
 
