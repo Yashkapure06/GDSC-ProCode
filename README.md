@@ -18,6 +18,7 @@ _HACKTOBERFEST - 2022_
 
 ~ For Contributors: 
 - Here’s what you need to know to participate and complete Hacktoberfest:
+
 1.Register anytime between September 26 and October 31
 
 2.Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
