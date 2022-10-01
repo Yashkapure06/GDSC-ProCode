@@ -8,7 +8,7 @@
   We are creating this repo So that many of you can add your files over here.<br>
 
 <hr>
-<img height="550px" width="1500px" src="https://user-images.githubusercontent.com/61585443/193394321-5be8a3c5-a060-4639-b716-28a2143d214c.png"/>
+<img height="500px" width="1500px" src="https://user-images.githubusercontent.com/61585443/193394321-5be8a3c5-a060-4639-b716-28a2143d214c.png"/>
 _HACKTOBERFEST - 2022_
 
 - What is HACKTOBERFEST💻⚡?
