@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 //Amaan Sayyed
-public class AmaanSayyed {
+public class Amaan_Sayyed {
 
 //    public void isPalindrome(String x){
 //
