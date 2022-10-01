@@ -6,8 +6,66 @@
 
   Hello Friends, We have created this repo just for improving your <b>LOGICS</b> in any kind of programming.<br>
   We are creating this repo So that many of you can add your files over here.<br>
+
+<hr>
+<img height="550px" width="1500px" src="https://user-images.githubusercontent.com/61585443/193394321-5be8a3c5-a060-4639-b716-28a2143d214c.png"/>
+_HACKTOBERFEST - 2022_
+
+- What is HACKTOBERFEST💻⚡?
+> HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIBUTE TO OPEN SOURCE THROUGHOUT OCTOBER.
+
+---------------------------
+
+~ For Contributors: 
+- Here’s what you need to know to participate and complete Hacktoberfest:
+1.Register anytime between September 26 and October 31
+
+2.Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
+
+3.Project maintainers must accept your pull/merge requests for them to count toward your total
+
+4.Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest
+
+5.The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name , or the Hacktoberfest 2022 t-shirt.
+So Lets be the first 40,000 participants!!!⚡💯
+
+---------------------------
+
+Steps to get registered!:
+1. Go to: https://hacktoberfest.com/ and click on registration is open now(Hurry Up!! It can get closed anytime)
+2. Authorize your GitHub account with HactoberFest > click Initiate
+3. Scroll down
+    * Enter Your Name
+    * Email
+    * How will You participate:
+      > select *CONTRIBUTOR* 🤝
+    * Experience Level:
+      > select *NEWBIE*👶
+    * How would you like to contribute:
+      > select *CODE*
+    * Country : *INDIA* 🇮🇳
+    * Check *Holopin(You will receive a digital batch which you can showcase on your GitHub profile)*
+    * Check *All Marketing Options*
+    * Accept *All the RULES*
+    * Click *REGISTER*
+
+---------------------
+We will do this program on our *GDSC-Patterns repository*
+ 
+https://github.com/Yashkapure06/GDSC-Patterns
+
+Give a ⭐ so that our repository can get more recognition!
+
+You will have to raise a *PR(Pull Request)* on which ever new question arises!!
+And we will merge your *PR's* it your code is correct!
+
+Remember You can get Hacktober *t-shirt* if we come in 1st 40,000 participants. So I want All of you to take advantage of it!!!
+
+Take it seriously!!
+Let's Make our *MET* to get more recognition! from all over the *WORLD!*
   
  
+ <hr>
   
 ###  But  Wait!! Which files!? and how to give names to those files which you are going to upload
 # We are going to play with patterns here!⭐🎉🥳 
