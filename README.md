@@ -2,7 +2,7 @@
 
 ![gdsclogo](https://user-images.githubusercontent.com/61585443/191570767-0f698f28-fc75-4faa-96d0-cbaf93864100.png)
 
-# GDSC-Patterns
+# GDSC-ProCode
 
   Hello Friends, We have created this repo just for improving your <b>LOGICS</b> in any kind of programming.<br>
   We are creating this repo So that many of you can add your files over here.<br>
@@ -54,7 +54,7 @@ Steps to get registered!:
 ---------------------
 We will do this program on our *GDSC-Patterns repository*
  
-https://github.com/Yashkapure06/GDSC-Patterns
+https://github.com/Yashkapure06/GDSC-ProCode
 
 Give a ⭐ so that our repository can get more recognition!
 
