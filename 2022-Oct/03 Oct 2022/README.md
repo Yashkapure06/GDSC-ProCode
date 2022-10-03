@@ -1,7 +1,7 @@
 # Problem Statement : 03 Oct 2022
 
 
-- Accept a String from user & convert upper case leeter into lowercase and vice versa<br>
+- Accept a String from user & convert uppercase letter into lowercase letter and vice versa<br>
 
 ```
  Input : "tEsT"
