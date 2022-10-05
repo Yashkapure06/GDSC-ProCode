@@ -8,7 +8,7 @@ int main()
     gets(str);
 for (i= 0; str[i] != NULL;i++)
     {
-      if (str[i] >= 'a' && str[i] <= 'z')
+      if (str[i] >= 'A' && str[i] <= 'Z')
             count++;
     }
 
