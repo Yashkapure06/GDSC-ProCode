@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MySolution {
+public class Kanishk_Mewal {
 
     static boolean check(String str1, String str2)
     {   
