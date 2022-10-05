@@ -8,11 +8,12 @@ int main()
     gets(str);
 for (i= 0; str[i] != NULL;i++)
     {
-      if (str[counter] >= 'a' && str[counter] <= 'z')
+      if (str[i] >= 'a' && str[i] <= 'z')
             count++;
     }
 
-    printf("Total Upper case characters: %d, Lower Case characters: %d", countU, countL);
+    printf("Total Upper case characters: %d", count);
 
     return 0;
 }
+  
