@@ -11,7 +11,7 @@ int main()
             str[i] = tolower(str[i]);  
         }  
         else if(islower(str[i]))
-        {  
+        {   
             str[i] = toupper(str[i]);  
         }  
     }  
