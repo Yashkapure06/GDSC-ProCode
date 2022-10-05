@@ -18,4 +18,4 @@ int main()
     printf("String after case conversion : %s", str);  
     return 0;  
 }  
-//OUTPUT:String after case conversion : gREAT pOWER
+//OUTPUT:String after case conversion :  gREAT pOWER
