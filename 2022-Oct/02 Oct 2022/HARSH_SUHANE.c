@@ -4,18 +4,17 @@ int main()
 {
     char str[100];
     
-    int i, countU = 0;
-
-    printf("Enter a string: ");
+    int count=0,i;
+  printf("Enter a string: ");
     gets(str);
-
-    for (i= 0; str[i] != NULL;i++) {
-
-        if (str[i] >= 'A' && str[i] <= 'Z')
-            countU++;
+for (i= 0; str[i] != NULL;i++)
+    {
+      if (str[i] >= 'A' && str[i] <= 'Z')
+            count++;
     }
 
-    printf("Total Upper case characters: %d", countU);
+    printf("Total Upper case characters: %d", count);
 
     return 0;
 }
+   
