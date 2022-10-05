@@ -3,6 +3,7 @@
 int main()
 {
     char str[100];
+    
     int count=0,i;
   printf("Enter a string: ");
     gets(str);
