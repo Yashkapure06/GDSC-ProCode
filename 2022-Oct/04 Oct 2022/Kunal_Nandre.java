@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class Kunal_Nandre {
 	
 	public static String sortString(String inputString)
 	{
