@@ -33,7 +33,40 @@ Output : True
 > JAVA CODE
 
 ```
-    Solutions will updated tomorrow !
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sobj = new Scanner(System.in);
+        String str1 = sobj.nextLine();
+        String str2 = sobj.nextLine();
+
+        int[] arr = new int[26];
+
+        // for string 1
+        for (int i = 0; i < str1.length(); i++) {
+            char ch = str1.charAt(i);
+            arr[ch - 'a']++;
+        }
+
+        // for string 2
+        for (int i = 0; i < str2.length(); i++) {
+            char ch = str2.charAt(i);
+            arr[ch - 'a']--;
+        }
+
+        // check final array
+        // all values should be zero (0)
+        for (int a : arr) {
+            if (a != 0) {
+                System.out.println(false);
+                return;
+            }
+        }
+
+        System.out.println(true);
+    }
+}
 ```
 
 
