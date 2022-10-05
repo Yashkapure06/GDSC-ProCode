@@ -16,4 +16,4 @@ for (i= 0; str[i] != NULL;i++)
 
     return 0;
 }
-  
+   
