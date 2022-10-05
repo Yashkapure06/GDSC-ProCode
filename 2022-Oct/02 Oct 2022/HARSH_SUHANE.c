@@ -3,24 +3,19 @@
 int main()
 {
     char str[100];
-    int countL, countU;
-    int counter;
-
-    //assign all counters to zero
-    countL = countU = 0;
+    
+    int i, countU = 0;
 
     printf("Enter a string: ");
     gets(str);
 
-    for (counter = 0; str[counter] != NULL; counter++) {
+    for (i= 0; str[i] != NULL;i++) {
 
-        if (str[counter] >= 'A' && str[counter] <= 'Z')
+        if (str[i] >= 'A' && str[i] <= 'Z')
             countU++;
-        else if (str[counter] >= 'a' && str[counter] <= 'z')
-            countL++;
     }
 
-    printf("Total Upper case characters: %d, Lower Case characters: %d", countU, countL);
+    printf("Total Upper case characters: %d", countU);
 
     return 0;
 }
