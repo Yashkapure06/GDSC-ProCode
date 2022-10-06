@@ -6,9 +6,9 @@ public class Kanishk_Mewal {
         sc.close();
         int count = 0;
         int max_count = 0;
-        for(int j = 0; j < str1.length(); j++)
+        for(int i = 0; i < str1.length(); i++)
         {
-            if(str1.charAt(j) == ' ')
+            if(str1.charAt(i) == ' ')
             count = 0;
             else
             {
