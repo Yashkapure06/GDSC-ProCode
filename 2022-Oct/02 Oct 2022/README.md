@@ -19,7 +19,30 @@ Output : 5
 > JAVA CODE
 
 ```
-    Solutions will updated tomorrow !
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sobj = new Scanner(System.in);
+        String str = sobj.nextLine();
+
+        System.out.println(calculateCapitals(str));
+        
+    }
+
+    public static int calculateCapitals(String str)
+    {
+        int ans = 0;
+        for(char ch : str.toCharArray())
+        {
+            if(ch >= 'A' && ch <= 'Z')
+            {
+                ans++;
+            }
+        }
+        return ans;
+    }
+}
 ```
 
 

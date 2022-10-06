@@ -19,7 +19,39 @@ Output : "cOder"
 > JAVA CODE
 
 ```
-    Solutions will updated tomorrow !
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sobj = new Scanner(System.in);
+        String str = sobj.nextLine();
+
+        System.out.println(SwitchCase(str));
+        
+    }
+
+    public static String SwitchCase(String str)
+    {
+        String ans = "";
+
+        for(char ch : str.toCharArray())
+        {
+            if(ch >= 'a' && ch <= 'z')
+            {
+                ans += (char)(ch-32);
+            }
+            else if(ch >= 'A' && ch <= 'Z')
+            {
+                ans += (char)(ch+32);
+            }
+            else
+            {
+                ans += ch;
+            }
+        }
+        return ans;
+    }
+}
 ```
 
 
