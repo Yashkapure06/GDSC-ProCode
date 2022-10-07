@@ -22,4 +22,3 @@ for i in range(len(inp)):
       result = i
       max = len(inp[i])
 print(inp[result])
-xnn-fcxv-xji
