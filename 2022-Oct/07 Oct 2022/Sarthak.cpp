@@ -61,11 +61,9 @@ string longestPalin(string str)
 	return longestword;
 }
 
-// Driver code
 int main()
 {
-	string s = "My name is ava and i love"
-						" Geeksforgeeks";
+	string s = "I love Badminton";
 
 	if (longestPalin(s) == "")
 		cout<<"No Palindrome"<<" Word";
@@ -74,5 +72,3 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Manish
-// Shaw (manishshaw1)
