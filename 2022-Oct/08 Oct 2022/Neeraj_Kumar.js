@@ -24,7 +24,7 @@ charArray[j] = temp;
 return (charArray).join("");
 }
   
-let str = "ABC";
+let str = window.prompt("Enter your string: ");
 let n = str.length;
 permute(str, 0, n-1);
 </script>
