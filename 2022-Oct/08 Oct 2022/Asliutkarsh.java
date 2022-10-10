@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class Asliutkarsh {
+
+    public static void main(String args[])
+    {
+        Scanner sc = new Scanner(System.in);
+
+        String res="";
+
+        String s = sc.nextLine();
+
+        permute(s, res);
+    }
+
+    public static void permute(String s , String res)
+    {
+        if (s.length() == 0)
+        {
+            System.out.print(res + " ");
+            return;
+        }
+
+        for(int i = 0 ;i < s.length(); i++)
+        {
+            char ch = s.charAt(i);
+            String left_substr = s.substring(0, i);
+            String right_substr = s.substring(i + 1);
+            String rest = left_substr + right_substr;
+            permute(rest, res + ch);
+        }
+    }
+
+
+
+}
