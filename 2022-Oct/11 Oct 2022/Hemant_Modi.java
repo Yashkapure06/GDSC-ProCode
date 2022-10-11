@@ -1,4 +1,4 @@
-class GDSC {
+class Hemant_Modi {
 
 	static boolean checkPalin(String word)
 	{
