@@ -23,7 +23,30 @@ Output : 7
 > JAVA CODE
 
 ```
-    Solutions will updated tomorrow !
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner sobj = new Scanner(System.in);
+        String str = sobj.nextLine();
+
+        System.out.println(getMaxLenWord(str));
+        
+    }
+
+
+    public static int getMaxLenWord(String str)
+    {
+        int maxLen = 0;
+
+        for(String word : str.split(" "))
+        {
+            maxLen = Math.max(maxLen, word.length());
+        }
+
+        return maxLen;
+    }
+}
 ```
 
 
