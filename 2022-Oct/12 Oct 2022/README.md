@@ -7,7 +7,7 @@
 Input: L1={10,20,30,40}, L2={40,50,60,70}
 Output : 40
 
-Input : L1={'A','B','C'} L2={'D','B','A','E'}
+Input : L1={'A','B','C'}, L2={'D','B','A','E'}
 Output : A, B
 
 ```
