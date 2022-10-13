@@ -23,7 +23,7 @@ int main()
     for (i = 0; i < n; i++)
         cout << arr[i] << ' ';
  
-    rotate(arr, 5);
+    rotate(arr, n);
  
     cout << "\nRotated array is\n";
     for (i = 0; i < n; i++)
