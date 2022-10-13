@@ -1,7 +1,7 @@
 # Problem Statement : 13 Oct 2022
 
 
-- Accept array from user and roate it from left by one place <br>
+- Accept array from user and rotate it from left by one place <br>
 
 ```
 arr[] = {1, 2, 3, 4, 5, 6, 7,}
