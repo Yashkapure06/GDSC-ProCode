@@ -1,9 +1,11 @@
 {
     "files.associations": {
+        "*.gradle": "dart",
         "initializer_list": "cpp",
         "type_traits": "cpp",
         "vector": "cpp",
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iostream": "cpp"
     }
 }
