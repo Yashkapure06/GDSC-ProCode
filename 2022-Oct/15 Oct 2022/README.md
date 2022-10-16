@@ -14,5 +14,40 @@ Output: 6 7 1 2 3 4 5
 
 ```
 
-CPP Code will be updated tomorrow
+CPP Code 
 
+```
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+    int a[n];
+   
+    
+    for(int i=0;i<n;i++)
+        cin>>a[i];
+    
+    int d;
+    cin>>d;
+    int temp[d];
+    
+    for(int i=0;i<d;i++)
+        temp[i]=a[i];
+    
+    for(int i=0;i<n-d;i++)
+        a[i]=a[i+d];
+    
+    for(int i=0;i<d;i++)
+        a[n-d+i]=temp[i];
+    
+    
+    for(int i=0;i<n;i++)
+        cout<<a[i]<<" ";
+        
+    return 0;
+}
+```
