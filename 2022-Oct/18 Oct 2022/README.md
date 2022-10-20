@@ -1,7 +1,7 @@
 # Problem Statement : 18 Oct 2022
 
 
-- Accept  n size  2D array from user and convet row into column and viceversa <br>
+- Accept  n size  2D array from user and convert row into column and viceversa <br>
 
 ```
 Input:  int A[N][N] = { { 1, 1, 1, 1 },
