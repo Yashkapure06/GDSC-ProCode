@@ -10,10 +10,7 @@ res = []
 for i in range(n):
 	li = []
 	for j in range(n):
-		ans = 0
-		for k in range(n):
-			ans += a[i][k] * b[k][j]
-		li.append(ans)
+		li.append(a[i][j] + b[i][j])
 	res.append(li)
 
 for i in range(n):
